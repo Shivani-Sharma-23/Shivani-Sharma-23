@@ -31,4 +31,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&show_icons=true"><p><br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skillbasket&" alt="skillbasket" /></p>
