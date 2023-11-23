@@ -26,7 +26,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23" alt="Shivani-Shivani-Sharma-23" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23" alt="Shivani-Sharma-23" /></a> </p>
 
 </p>
 
@@ -35,4 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&show_icons=true&locale=en" alt="Shivani-Sharma-23" /></p>
 <br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skillbasket&" alt="Shivani-Shrama-23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Sharma-23&" alt="Shivani-Sharma-23" /></p>
