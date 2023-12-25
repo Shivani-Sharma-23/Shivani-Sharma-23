@@ -1,6 +1,5 @@
 # 🧿
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there , I am Shivani Sharma
+[![Header]( https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/github-header-image.png "Header")](#)
 
 
 <p align="center">:round_pushpin: Profile views</p>
@@ -32,21 +31,25 @@
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23" alt="Shivani-Sharma-23" /></a> </p>
-
-</p>
-
 ## 📊 Github Status
 
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&theme=radical&title_color=ff3068?"></a>
 <br>
 
 
+## 🏆 GitHub Trophies
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23" alt="Shivani-Sharma-23" /></a> </p>
+
+</p>
+
+
+
+## 🔥 My Progress
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Sharma-23&" alt="Shivani-Sharma-23" /></p>
 
+ <br>
+ <br>
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivani-Sharma-23&theme=bear" width=750  alt="stats graph"/>
 
