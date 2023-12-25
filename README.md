@@ -1,4 +1,12 @@
-# Hi there 👋, I am Shivani Sharma
+# 🧿
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there , I am Shivani Sharma
+
+
+<p align="center">:round_pushpin: Profile views</p>
+<div align="center">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/Shivani-Sharma-23/count.svg">
+</div>
 
 ## 💮 Additional Insight into My Profile
 <p>🧠 I'm currently learning Machine Learning and Deep Learning.</p>
@@ -32,7 +40,15 @@
 
 ## 📊 Github Status
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&show_icons=true&locale=en" alt="Shivani-Sharma-23" /></p>
-<br><br>
+<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&theme=radical&title_color=ff3068?"></a>
+<br>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Sharma-23&" alt="Shivani-Sharma-23" /></p>
+
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivani-Sharma-23&theme=bear" width=750  alt="stats graph"/>
+
+</div>
+<br>
