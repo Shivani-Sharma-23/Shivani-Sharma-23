@@ -1,5 +1,7 @@
 # 🧿
-<h1 align="center">
+<img src="https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/code-removebg-preview.png" align="right" />
+
+<h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋....;..This+is+Shivani+Sharma....;Aspiring+Data+Scientist!&center=true&size=30">
   </a>
