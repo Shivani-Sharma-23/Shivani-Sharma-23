@@ -1,6 +1,9 @@
 # 🧿
-[![Header]( https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/github-header-image.png "Header")](#)
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋....;..This+is+Shivani+Sharma....;Aspiring+Data+Scientist!&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
