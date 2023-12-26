@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<img src="https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/github-header-image.png" align="centre" />
+<img src="https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/github-header-image.png" align="centre"/>
 
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
