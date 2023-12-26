@@ -1,9 +1,7 @@
 # 🧿
-<img src="https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/code-removebg-preview.png" align="right" />
-
-<h1 align="left">
+<h1 align="centre">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋....;..This+is+Shivani+Sharma....;Aspiring+Data+Scientist!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋&center=true&size=30">
   </a>
 </h1>
 
@@ -40,7 +38,6 @@
 
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&theme=radical&title_color=ff3068?"></a>
 <br>
-
 
 ## 🏆 GitHub Trophies
 
