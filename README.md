@@ -5,6 +5,8 @@
   </a>
 </h1>
 
+<img src="https://github.com/Shivani-Sharma-23/Shivani-Sharma-23/blob/main/code-removebg-preview.png" align="right" />
+
 <p align="center">:round_pushpin: Profile views</p>
 <div align="center">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/Shivani-Sharma-23/count.svg">
