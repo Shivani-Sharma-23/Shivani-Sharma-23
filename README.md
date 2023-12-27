@@ -39,7 +39,10 @@
 ## 📊 Github Status
 
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&theme=radical&title_color=ff3068?"></a>
-<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivani-Sharma-23&show_icons=true&locale=en&layout=compact" alt="sneha-4-22" /></p>
+<br><br><br>
+<br><br><br><br>
 
 ## 🏆 GitHub Trophies
 
