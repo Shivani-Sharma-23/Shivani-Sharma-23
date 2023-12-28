@@ -46,13 +46,14 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23&theme=algioa)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 
 ## 🔥 My Progress
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Sharma-23&" alt="Shivani-Sharma-23" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shivani-Sharma-23&theme=highcontrast)](https://git.io/streak-stats)
+
 
  <br>
  <br>
