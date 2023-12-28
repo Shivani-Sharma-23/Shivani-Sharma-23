@@ -45,12 +45,9 @@
 <br><br><br><br>
 
 ## 🏆 GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23&theme=algolia
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shivani-Sharma-23" alt="Shivani-Sharma-23" /></a> </p>
-
-</p>
 
 
 
