@@ -39,7 +39,6 @@
 ## 📊 Github Status
 
 <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Sharma-23&theme=radical&title_color=ff3068?"></a>
-<a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=sneha-4-22&theme=radical&title_color=ff3068?"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Sharma-23&hide_progress=true&theme=radical)
 
