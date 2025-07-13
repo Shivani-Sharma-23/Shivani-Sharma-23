@@ -15,7 +15,7 @@
 ## 💮 Additional Insight into My Profile
 <p>🧠 I'm currently learning Machine Learning and DSA.</p>
 <p>👩‍💻 Working on App Development</p>
-<p>📫 How to reach me? shivanisharma232005@gmail.co</p>
+<p>📫 How to reach me? shivanisharma232005@gmail.com</p>
 
 ## 💻 Skills
 <p>
